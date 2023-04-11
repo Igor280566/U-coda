@@ -519,7 +519,7 @@ button {
     max-width: 155px;
     max-height: 155px;
     border-radius: 50%;
-    border: 3px solid #28de6e;
+    border: 1px solid #28de6e;
     margin-bottom: 20px;
 }
 .about-action__text {
